@@ -1,0 +1,65 @@
+{
+    "items": [
+        {
+            "item_id": 1,
+            "item_name": "薬草",
+            "item_price": 25
+        },
+        {
+            "item_id": 2,
+            "item_name": "回復ポーション",
+            "item_price": 50
+        },
+        {
+            "item_id": 3,
+            "item_name": "マナポーション",
+            "item_price": 75
+        },
+        {
+            "item_id": 4,
+            "item_name": "鉄の剣",
+            "item_price": 150
+        },
+        {
+            "item_id": 5,
+            "item_name": "革の盾",
+            "item_price": 100
+        },
+        {
+            "item_id": 6,
+            "item_name": "火炎魔法の巻物",
+            "item_price": 200
+        },
+        {
+            "item_id": 7,
+            "item_name": "氷魔法の巻物",
+            "item_price": 200
+        },
+        {
+            "item_id": 8,
+            "item_name": "弓矢セット",
+            "item_price": 120
+        },
+        {
+            "item_id": 9,
+            "item_name": "銀の指輪",
+            "item_price": 300
+        },
+        {
+            "item_id": 10,
+            "item_name": "金の首飾り",
+            "item_price": 500
+        },
+        {
+            "item_id": 11,
+            "item_name": "銀の首飾り",
+            "item_price": 450
+        },
+        {
+            "item_id": 12,
+            "item_name": "銅の首飾り",
+            "item_price": 400
+        }
+    ]
+}
+
